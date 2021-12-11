@@ -28,4 +28,11 @@
     <url>/2021/12/10/third-post/</url>
     <content><![CDATA[]]></content>
   </entry>
+  <entry>
+    <title>second post</title>
+    <url>/2021/12/10/second-post/</url>
+    <content><![CDATA[<p>this is a test after 添加文字命令后自动打开编辑器。</p>
+<p>为什么输入中文会跳？</p>
+]]></content>
+  </entry>
 </search>
